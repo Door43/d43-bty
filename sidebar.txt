@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bty:home|Door43 (bty)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bty|d43-bty repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bty/archive/master.zip|d43-bty.zip]]
+
+**Recent Changes**
+{{changes>ns = bty}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bty|Ethnologue data]]
+
